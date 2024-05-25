@@ -1,3 +1,0 @@
-# FUZZY
-fun
-brooo
